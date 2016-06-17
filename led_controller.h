@@ -89,5 +89,6 @@ extern mailbox_t led_mailbox;
 #define LED_MSG_SLEEP_LED_OFF 4
 #define LED_MSG_LOGO_TOGGLE 5
 #define LED_MSG_ENTER_TOGGLE 6
+#define LED_MSG_ALL_TOGGLE 7
 
 #endif /* _LED_CONTROLLER_H_ */
